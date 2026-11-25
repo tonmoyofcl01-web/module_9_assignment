@@ -1,0 +1,13 @@
+{
+  "name": "module_9_assignment",
+  "version": "1.0.0",
+  "description": "This is my module 9 assignment of ostad which is based on node js server creation",
+  "license": "ISC",
+  "author": "Tonmoy",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  }
+}
